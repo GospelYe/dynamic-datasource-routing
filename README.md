@@ -1,2 +1,3 @@
 # dynamic-datasource-routing
 dynamic-datasource-routing through spring
+利用spring AbstractRoutingDataSource以及spring aop功能实现项目配置多数据源功能，根据切面方法的名称来动态选择相应的数据源。
